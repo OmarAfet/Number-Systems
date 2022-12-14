@@ -15,4 +15,4 @@ def Decimal_To_Binary(Decimal):
     
     return result
 
-print(Decimal_To_Binary(123))
+print(Decimal_To_Binary(953))
