@@ -1,2 +1,2 @@
-def binary_to_hexadecimal(binary: str) -> int:
-    return (hex(int(binary, 2))[2:]).upper()
+def binary_to_hexadecimal(binary: int) -> str:
+    return (hex(int(str(binary), 2))[2:]).upper()
