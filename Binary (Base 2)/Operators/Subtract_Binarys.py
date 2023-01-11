@@ -1,4 +1,4 @@
-def Sub_Binary(a: str, b: str) -> str:
+def Subtract_Binary(a: str, b: str) -> str:
     x = int(a, 2)
     y = int(b, 2)
     if y > x:
