@@ -1,4 +1,4 @@
-def Decimal_To_Binary(decimal):
+def Decimal_To_Binary(decimal: int) -> int:
     x = bin(decimal)[2:]
 
     while len(x) % 4 != 0:
