@@ -1,2 +1,2 @@
-def binary_to_octal(binary: int) -> int:
-    return oct(int(str(binary), 2))[2:]
+def binary_to_octal(binary: str) -> int:
+    return oct(int(binary, 2))[2:]

@@ -1,2 +1,2 @@
-def Binary_To_Decimal(binary: int) -> int:
-    return int(str(binary), 2)
+def Binary_To_Decimal(binary: str) -> int:
+    return int(binary, 2)
