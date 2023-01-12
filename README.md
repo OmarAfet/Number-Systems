@@ -8,7 +8,7 @@ This repository contains implementations of various number systems in Python, in
 
 ## Soon
 
-A library for this repository will be created in the near future.
+A library for this repository will be created in the future.
 
 ## Built With
 
