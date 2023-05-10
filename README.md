@@ -18,10 +18,6 @@ A library for this repository will be created in the future.
 
 Please feel free to submit pull requests or issues for any bugs or feature requests.
 
-## Author
-
-* [**M7ilan**](https://github.com/M7ilan)
-
 ## License
 
 This project is licensed under the MIT License - see the [**LICENSE**](LICENSE) file for details.
